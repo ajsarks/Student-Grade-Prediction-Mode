@@ -1,0 +1,15 @@
+Model,Learning Rate,R²,MSE,Compute Time (s)
+Gradient Descent,0.001,0.5482,1.3193,0.022327
+Gradient Descent,0.01,0.8782,0.3555,0.024099
+Gradient Descent,0.1,0.8781,0.3558,0.003071
+Gradient Descent,0.5,0.8781,0.3559,0.000669
+Gradient Descent,0.75,0.8781,0.3559,0.000438
+Gradient Descent,1.0,0.8781,0.3559,0.000698
+Neural Network,0.001,0.688,0.911,0.15366
+Neural Network,0.01,0.8146,0.5414,0.15056
+Neural Network,0.1,0.632,1.0744,0.137466
+Neural Network,0.5,-2.191,9.317,0.137641
+Neural Network,0.75,-6.884,23.0192,0.137071
+Neural Network,1.0,-7.9865,26.2383,0.139349
+OLS,,0.8781,0.3559,0.000681
+OLS,,0.8781,0.3559,0.000635
